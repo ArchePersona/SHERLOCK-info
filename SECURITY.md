@@ -4,7 +4,7 @@
 
 Please do not disclose suspected vulnerabilities publicly through repository issues, discussions, social media, or other public channels.
 
-If you believe you have identified a security issue affecting SHERLOCK or an ARCHETRON-controlled SHERLOCK surface, contact ARCHETRON privately through an official contact channel.
+If you believe you have identified a security issue affecting SHERLOCK or a VOLSHi-controlled SHERLOCK surface, contact VOLSHi privately through an official contact channel.
 
 Where practical, include:
 
@@ -20,7 +20,7 @@ Do not include passwords, API keys, access tokens, private customer information,
 
 ## Scope of This Repository
 
-`SHERLOCK-info` is a public information repository. It does not contain the private SHERLOCK source code, the proprietary ERIE implementation, or private ARCHETRON systems.
+`SHERLOCK-info` is a public information repository. It does not contain the private SHERLOCK source code, the proprietary ERIE implementation, or private VOLSHi systems.
 
 ## Disclosure
 
@@ -28,4 +28,4 @@ Please allow reasonable time for investigation and remediation before public dis
 
 ---
 
-Copyright © 2026 ARCHETRON. All rights reserved.
+Copyright © 2026 VOLSHi. All rights reserved.
