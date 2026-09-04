@@ -8,7 +8,7 @@ This repository is the public information surface for SHERLOCK. Documentation ma
 
 ## Product and Business Inquiries
 
-For product evaluation, licensing, partnership, hackathon review, or other business inquiries, use an official ARCHETRON contact channel.
+For product evaluation, licensing, partnership, hackathon review, or other business inquiries, use an official VOLSHi contact channel.
 
 ## Security Issues
 
