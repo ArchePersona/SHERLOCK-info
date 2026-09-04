@@ -2,7 +2,7 @@
 
 **Evidence-driven reconstruction for scattered AI work.**
 
-SHERLOCK is an ARCHETRON application for recovering, reconstructing, and investigating work spread across AI conversations, files, exports, attachments, and related artifacts.
+SHERLOCK is an application within the ARCHETRON ecosystem, built by VOLSHi, for recovering, reconstructing, and investigating work spread across AI conversations, files, exports, attachments, and related artifacts.
 
 It is designed for a problem that becomes more serious as AI becomes part of everyday work: the information still exists, but the context around it is fragmented.
 
@@ -104,9 +104,9 @@ Public documentation describes product purpose, externally relevant capabilities
 
 ## ARCHETRON
 
-SHERLOCK is an ARCHETRON technology.
+SHERLOCK is a technology within ARCHETRON, the VOLSHi technology ecosystem.
 
-ARCHETRON develops infrastructure for intelligent systems with deliberately separated responsibilities around evidence, memory, reasoning, attention, observation, governance, and execution.
+VOLSHi develops infrastructure for intelligent systems with deliberately separated responsibilities around evidence, memory, reasoning, attention, observation, governance, and execution.
 
 SHERLOCK is the investigation application: the visible product through which evidence-first reconstruction and investigation can be experienced directly.
 
@@ -114,8 +114,8 @@ SHERLOCK is the investigation application: the visible product through which evi
 
 `SHERLOCK-info` is a public documentation repository intended for product information, evaluation, hackathon review, business reference, and other material that can be shared without exposing the private SHERLOCK implementation.
 
-Publication of this repository does not grant access to SHERLOCK source code, private systems, non-public interfaces, proprietary architecture, algorithms, protocols, internal workflows, or ARCHETRON intellectual property.
+Publication of this repository does not grant access to SHERLOCK source code, private systems, non-public interfaces, proprietary architecture, algorithms, protocols, internal workflows, or proprietary VOLSHi technology.
 
 ---
 
-Copyright © 2026 ARCHETRON. All rights reserved.
+Copyright © 2026 VOLSHi. All rights reserved.
