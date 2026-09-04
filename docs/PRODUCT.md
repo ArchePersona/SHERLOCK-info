@@ -66,11 +66,11 @@ The evidence system remains distinct from the model using it.
 
 ## Relationship to ARCHETRON
 
-SHERLOCK is part of ARCHETRON's broader work on infrastructure for intelligent systems.
+SHERLOCK is part of ARCHETRON, the technology ecosystem built by VOLSHi for intelligent systems.
 
-ARCHETRON separates major responsibilities rather than collapsing evidence, memory, reasoning, observation, governance, execution, and attention into one opaque layer.
+Within ARCHETRON, major responsibilities are separated rather than collapsing evidence, memory, reasoning, observation, governance, execution, and attention into one opaque layer.
 
-SHERLOCK is the investigation application within that direction.
+SHERLOCK is the investigation application within that ecosystem.
 
 ## Development Status
 
