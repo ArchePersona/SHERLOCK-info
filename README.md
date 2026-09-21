@@ -104,9 +104,9 @@ Public documentation describes product purpose, externally relevant capabilities
 
 ## ARCHETRON
 
-SHERLOCK is a technology within ARCHETRON, the VOLSHi technology ecosystem.
+SHERLOCK is a technology within ARCHETRON and a visible application of the VOLSHi span between machine intelligence and human experience.
 
-VOLSHi develops infrastructure for intelligent systems with deliberately separated responsibilities around evidence, memory, reasoning, attention, observation, governance, and execution.
+VOLSHi separates responsibilities that should survive any individual model: evidence, memory, learning, attention, observation, authority, execution, and continuity. SHERLOCK applies that architecture to investigation, giving a person a durable relationship with evidence and history while models remain replaceable reasoning components.
 
 SHERLOCK is the investigation application: the visible product through which evidence-first reconstruction and investigation can be experienced directly.
 
