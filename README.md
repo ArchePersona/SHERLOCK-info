@@ -1,6 +1,6 @@
 # SHERLOCK
 
-**Evidence-driven reconstruction for scattered AI work.**
+**Evidence-driven reconstruction and investigation for AI-assisted work.**
 
 SHERLOCK is an application within the ARCHETRON ecosystem, built by VOLSHi, for recovering, reconstructing, and investigating work spread across AI conversations, files, exports, attachments, and related artifacts.
 
@@ -43,7 +43,7 @@ Its central principle is deliberately simple:
 
 ## The Architecture Beneath SHERLOCK
 
-SHERLOCK is also a working demonstration of deeper ARCHETRON technology.
+SHERLOCK is a working application of deeper VOLSHi infrastructure, bringing evidence, temporal structure, provenance, and bounded model reasoning together in an inspectable investigation system.
 
 ### ERIE
 
